@@ -1,6 +1,6 @@
 # 👋 I'm Yinka Oluwasegun
 
-### **UI/UX Engineer**
+### **UI Engineer**
 
 > I streamline complex problems into user-friendly product interfaces  
 > by blending diverse design skills and perspectives for a user-centered approach.
@@ -20,7 +20,7 @@
 ### 🧠 About Me
 
 - 🎨 Passionate about **design systems**, **interface design**, and **user psychology**
-- 🛠️ Skilled in `Figma`, `React`, `Next.js`, `Tailwind CSS`, and `Framer Motion`
+- 🛠️ Skilled in `Figma`, `React`, `Next.js`, `Tailwind CSS`,  and `Framer Motion`
 - 🚀 Building accessible and scalable products across **fintech**, **SaaS**, and **edtech**
 
 ---
@@ -30,5 +30,5 @@
 Feel free to reach out for collaborations, projects, or just a chat:
 
 📧 yinka@example.com  
-🌐 [yourwebsite.com](https://yourwebsite.com)
+🌐 [ola.com](https://yourwebsite.com)
 
