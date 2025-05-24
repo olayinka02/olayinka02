@@ -1,4 +1,4 @@
-# 👋 I'm Yinka Oluwasegun
+# 👋 I'm Olayimmika
 
 ### **UI Engineer**
 
@@ -9,19 +9,19 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://behance.net/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinseye-oluwasegun-yinka-319a661a9/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/oluwasegunyinka)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Olayimika_yinka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2F0layimmika%2F&is_from_rle)
+
 
 ---
 
 ### 🧠 About Me
 
 - 🎨 Passionate about **design systems**, **interface design**, and **user psychology**
-- 🛠️ Skilled in `Figma`, `React`, `Next.js`, `Tailwind CSS`,  and `Framer Motion`
-- 🚀 Building accessible and scalable products across **fintech**, **SaaS**, and **edtech**
+- 🛠️ Skilled in `Figma`,`Adobe XD`,`Photoshop`, `React`, `Next.js`, `Tailwind CSS`, `GSAP`  and `Framer Motion`
+
 
 ---
 
@@ -29,6 +29,6 @@
 
 Feel free to reach out for collaborations, projects, or just a chat:
 
-📧 yinka@example.com  
-🌐 [ola.com](https://yourwebsite.com)
+📧 oluwasegunyinka.samuel@gmail.com  
+🌐 [olayimika.vercel.app](https://olayimika.vercel.app/)
 
