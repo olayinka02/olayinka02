@@ -19,8 +19,8 @@
 
 ### 🧠 About Me
 
-- 🎨 Passionate about **design systems**, **interface design**, and **user psychology**
-- 🛠️ Skilled in `Figma`,`Adobe XD`,`Photoshop`, `React`, `Next.js`, `Tailwind CSS`, `GSAP`  and `Framer Motion`
+- 🎨 Passionate about **design systems**, **interface design**,**frontend development**, **no-code development**,and **user psychology**
+- 🛠️ Skilled in `Figma`,`Adobe XD`,`Photoshop`,`Javascript`,`Typescript`, `React`, `Next.js`, `Tailwind CSS`, `GSAP`  and `Framer Motion`
 
 
 ---
