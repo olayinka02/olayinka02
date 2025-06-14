@@ -1,4 +1,4 @@
-![github-hero](https://raw.githubusercontent.com/richardingwe/richardingwe/main/ruitwitterheader--2.jpg)
+![github-hero](https://raw.githubusercontent.com/olayinka02/olayinka02/main/olabanner.jpg)
 
 # 👋 I'm Olayimmika
 
