@@ -1,3 +1,5 @@
+![github-hero](https://raw.githubusercontent.com/richardingwe/richardingwe/main/ruitwitterheader--2.jpg)
+
 # 👋 I'm Olayimmika
 
 ### **UI Engineer**
